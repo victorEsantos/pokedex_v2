@@ -11,7 +11,6 @@ class PokemonListing extends StatefulWidget {
 }
 
 class _PokemonListingState extends State<PokemonListing> {
-  String? pokemonName;
 
   @override
   Widget build(BuildContext context) {

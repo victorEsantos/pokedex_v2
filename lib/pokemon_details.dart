@@ -12,7 +12,6 @@ class PokeDetails extends StatefulWidget {
 }
 
 class _PokeDetailsState extends State<PokeDetails> {
-  List<String> namesList = [];
 
   @override
   void initState() {
